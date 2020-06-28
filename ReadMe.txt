@@ -1,0 +1,1 @@
+This folder contains all Core Java Applications or Programs that you need for concept.
